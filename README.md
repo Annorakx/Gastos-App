@@ -2,7 +2,7 @@
 
 Una aplicación web **Fullstack** moderna para la gestión de finanzas personales. Permite registrar ingresos y gastos, visualizarlos en tiempo real y mantener un control del saldo actual.
 
-![Vista Previa](./docs/screenshot.png)
+![Vista Previa](./docs/Screenshot.png)
 
 ## 🚀 Tecnologías
 
