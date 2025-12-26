@@ -57,4 +57,4 @@ Si deseas correr este proyecto en tu máquina local:
 * [ ] Autenticación de usuarios (Login).
 
 ---
-Desarrollado con ❤️ por [Tu Nombre]
+Desarrollado con ❤️ por Yussef Merhi
