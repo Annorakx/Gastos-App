@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Estilo para las tarjetas (el fondo gris de los bloques) */
+.card {
+  @apply bg-gray-800 p-6 rounded-lg shadow-lg mb-6 border border-gray-700;
+}
+
+/* Estilo para los inputs (las cajas de texto) */
+.input-custom {
+  @apply p-2 rounded bg-gray-700 border border-gray-600 focus:outline-none focus:border-emerald-500 text-white;
+}
+
+/* Estilo para el botón principal */
+.btn-primary {
+  @apply w-full bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-2 px-4 rounded transition-colors mt-2;
+}
+
+/* Estilo para el contenedor principal */
+.main-container {
+  @apply min-h-screen bg-gray-900 text-white flex justify-center p-4;
+}
+
+/* Estilo para los items de la lista */
+.list-item {
+  @apply flex justify-between items-center bg-gray-700 p-3 rounded border border-gray-600;
+}
