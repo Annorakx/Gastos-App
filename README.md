@@ -2,7 +2,7 @@
 
 Una aplicación web **Fullstack** moderna para la gestión de finanzas personales. Diseñada para registrar gastos, visualizar balances en tiempo real y proteger la privacidad del usuario con un modo "oculto".
 
-![Vista Previa](./docs/screenshot.png)
+![Vista Previa](./docs/Screenshot.png)
 
 ## 🚀 Tecnologías
 
